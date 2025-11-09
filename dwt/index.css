@@ -291,7 +291,7 @@ html {
 .main-1-content>.content-box>.content-list>.content-item>a>img {
     width: 15vw;
     height: 15vw;
-    border-radius: 2vw;
+    border-radius: 5vw;
     box-shadow: 0 0 2.6666666667vw rgba(45, 98, 217, .15);
     margin-bottom: 1.5px;
 }
