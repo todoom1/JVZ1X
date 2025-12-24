@@ -35,7 +35,7 @@ document.getElementById("ngty").addEventListener("click", function() {
   window.location.href = "https://nvjmce.hfjcl.com/app/register.php?site_id=1019&topId=11904188";
 });
 document.getElementById("st").addEventListener("click", function() {
-  window.location.href = "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26471&selfPlanId=6126";
+  window.location.href = "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26471&selfPlanId=1556";
 });
 
 document.getElementById("0").innerHTML="🔥十年信誉平台推荐";
@@ -157,5 +157,6 @@ document.getElementById("55").innerHTML="其他分享&VPN-开VPN可进蓝名";
 document.getElementById("56").innerHTML="如遇本站功能无法正常使用，请点击下载注册狗狗云VPN，即可突破网络封锁正常使用";
 
 document.getElementById("57").innerHTML="zx12.my";
+
 
 
