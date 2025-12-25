@@ -2,7 +2,7 @@ document.getElementById("yw28").addEventListener("click", function() {
   window.location.href = "https://xjvueb.hefaship.com/app/register.php?site_id=1017&topId=6393351";
 });
 document.getElementById("ff").addEventListener("click", function() {
-  window.location.href = "https://bakmry.gziasti.com/app/register.php?site_id=1050&topId=624345&selfPlanId=411821";
+  window.location.href = "https://lncqc.jgqvji.com/app/register.php?site_id=1050&topId=4271766649461212&selfPlanId=3628950";
 });
 document.getElementById("wd").addEventListener("click", function() {
   window.location.href = "https://onkrcy.hefaship.com/app/register.php?site_id=1020&topId=2926113";
@@ -157,6 +157,7 @@ document.getElementById("55").innerHTML="其他分享&VPN-开VPN可进蓝名";
 document.getElementById("56").innerHTML="如遇本站功能无法正常使用，请点击下载注册狗狗云VPN，即可突破网络封锁正常使用";
 
 document.getElementById("57").innerHTML="zx12.my";
+
 
 
 
