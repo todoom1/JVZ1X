@@ -38,7 +38,7 @@ document.getElementById("st").addEventListener("click", function() {
   window.location.href = "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26471&selfPlanId=1556";
 });
 document.getElementById("xsd").addEventListener("click", function() {
-  alert("新时代将于本月初上线！");
+  window.location.href = "https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=57863&selfPlanId=66763";
 });
 document.getElementById("jl").addEventListener("click", function() {
   alert("君临国际将于本月初上线！");
@@ -77,4 +77,5 @@ document.getElementById("60").innerHTML="新时代";
 document.getElementById("61").innerHTML="君临国际";
 
 document.getElementById("57").innerHTML="zx12.my";
+
 
