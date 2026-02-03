@@ -1,5 +1,5 @@
 var cfz = "aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMyJnRvcElkPTg5NzYzMA==";
-var ngz = "aHR0cHM6Ly8xNTYuMjM0LjEuMTMxOjg4NjYvIy9saW5rP2FsbHdpbj0xMTYxMzE3MA==";
+var ngz = "aHR0cHM6Ly8xNDkuMzAuMTYzLjIzNTozMjAxMS8jL2xpbms/YWxsd2luPVp1bUdwRXolMkZmN1ROcWZGdkVsYUkwQSUzRCUzRA==";
 var ffz = "aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUwJnRvcElkPTQyNzE3NjY2NDk0NjEyMTImc2VsZlBsYW5JZD0zNjI4OTUw";
 var ztz = "aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMxJnRvcElkPTM0MDMz";
 var dfz = "aHR0cHM6Ly9nZnZneC5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMwJnRvcElkPTQ0MjM4Nw==";
@@ -78,3 +78,4 @@ document.getElementById("jl").addEventListener("click", function() {
 
 
 document.getElementById("1").innerHTML="永久地址<br>ZZ123.MY";
+
