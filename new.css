@@ -115,7 +115,10 @@ h3 {
  width:100%;
  font-size: 18px;
   text-align:center;
-  color: white;}
+  color: white;
+  background-color: #00000066;
+  border-radius: 8px;
+}
 h1 {
 width:100%;
   margin: 20px 6px;
