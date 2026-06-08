@@ -12,7 +12,7 @@
 {img: './svg/28q.svg', name: '28圈', xurl: 'aHR0cHM6Ly80NS4xMTQuMTA1LjEyMzo3Nzg4LyMvbGluaz9hbGx3aW49ODMwNjE2NA=='},
 {img: './svg/wd.svg', name: '问鼎娱乐', xurl: 'aHR0cHM6Ly9vbmtyY3kuaGVmYXNoaXAuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDIwJnRvcElkPTI5MjYxMTM='},
 {img: './png/sjgj.png', name: '赏金国际', xurl: 'aHR0cHM6Ly94anZ1ZWIuaGVmYXNoaXAuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDEwJnRvcElkPTMxMTMyMzU='},
-{img: './png/c7.png', name: 'C7', xurl: 'aHR0cHM6Ly8xMDMuMzkuMTguMjExOjc3ODgvIy9saW5rP2FsbHdpbj03UWpVRVhYa3NXd2E2ZGE2SlFFJTJCc2clM0QlM0Q='},
+{img: './png/c7.png', name: 'C7', xurl: 'aHR0cHM6Ly8zOC4xODEuMjMuMTAyOjYwMDA1LyMvbGluaz9hbGx3aW49N1FqVUVYWGtzV3dhNmRhNkpRRSUyQnNnJTNEJTNE'},
 {img: './png/top1.png', name: 'TOP1体育', xurl: 'aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUxJnRvcElkPTIzMDE3NjQzMTU2MjUxODU='},
 {img: './svg/ngty.svg', name: 'NG体育', xurl: 'aHR0cHM6Ly9udmptY2UuaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDE5JnRvcElkPTExOTA0MTg4'},
 {img: './png/xsd.jpg', name: '新时代', xurl: 'aHR0cHM6Ly9kZXJlYXIuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA1OSZ0b3BJZD01Nzg2MyZzZWxmUGxhbklkPTY2NzYz'},
